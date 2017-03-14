@@ -1,3 +1,5 @@
+package java.utility;
+
 /**
  * Created by CAMT on 6/3/2560.
  */
